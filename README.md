@@ -1,8 +1,8 @@
 # 6stee4
 
-![6stee4](icon.ico)
-
 ## 6stee4 (Sixty Four) - Base64 EDPS - Encoder, Decoder, Printer, Script - For Terminal (including CMD)
+
+![6stee4](icon.ico)
 
 Check Release Page for both the complete.py file that contains everything at once!
 
