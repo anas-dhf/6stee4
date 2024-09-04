@@ -2,7 +2,7 @@
 
 ![6stee4](icon.ico)
 
-6stee4 (Sixty Four) - Base64 EDPS - Encoder, Decoder, Printer, Script - For Terminal (including CMD)
+## 6stee4 (Sixty Four) - Base64 EDPS - Encoder, Decoder, Printer, Script - For Terminal (including CMD)
 
 Check Release Page for both the complete.py file that contains everything at once!
 
@@ -16,7 +16,7 @@ There are absolutely no dependencies other than, as visible, Python.
 
 To compile by yourself clone the repo and run:
 
-pyinstaller --onefile --icon=icon.ico complete.py
+$ pyinstaller --onefile --icon=icon.ico complete.py
 
 These commands applies to any operating system.
 
