@@ -2,18 +2,22 @@
 
 ![6stee4](icon.ico)
 
-6stee4 (Sixty Four) - Base64 EDPS - Encode, Decoder, Printer, Script - For Terminal (including CMD)
+6stee4 (Sixty Four) - Base64 EDPS - Encoder, Decoder, Printer, Script - For Terminal (including CMD)
 
-There was supposed to be a .exe application link. However I failed to make it work with PyInstaller.
+Check Release Page for both the complete.py file that contains everything at once!
 
-The files keep looking for a specific directory instead of an Absolute Path.
+Check Release Page to find the .exe version of the app!
 
-The project is completely functional though, just make sure you execute the exec.py file.
+Ignore Most files. Just run the following:
+
+$ python3 complete.py
 
 There are absolutely no dependencies other than, as visible, Python.
 
-To run:
+To compile by yourself clone the repo and run:
 
-python exec.py
+pyinstaller --onefile --icon=icon.ico complete.py
 
-This command applies to any operating system.
+These commands applies to any operating system.
+
+Thank you for your support!
