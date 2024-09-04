@@ -4,8 +4,6 @@
 
 ![6stee4](icon.ico)
 
-Check Release Page for both the complete.py file that contains everything at once!
-
 Check Release Page to find the .exe version of the app!
 
 Ignore Most files. Just run the following:
