@@ -16,6 +16,6 @@ To compile by yourself clone the repo and run:
 
 $ pyinstaller --onefile --icon=icon.ico complete.py
 
-These commands applies to any operating system.
+These commands apply to any operating system.
 
 Thank you for your support!
